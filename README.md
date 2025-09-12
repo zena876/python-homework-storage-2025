@@ -22,14 +22,15 @@
 3. Чтобы загрузить задание необходимо выбрать "Add file", в котором выбрать пункт "Upload files".
   <img width="1354" height="801" alt="3" src="https://github.com/user-attachments/assets/299f4ccc-b301-4c34-bd5c-749c28d7a6f4" />
 
-4. Загрузите ваши файлы и директории. Для этого необходимо перенести директорию с лабораторной работой мышкой в появившееся поле браузера. В разделе "Commit changes" указать название лабораторной работы. В описании добавить дополнительную информацию при необходимости.
-   <img width="1215" height="821" alt="4" src="https://github.com/user-attachments/assets/d5e0f3f7-c19d-456b-85eb-f635cc835455" />
+4. Загрузите ваши файлы и директории. Для этого необходимо перенести директорию с лабораторной работой мышкой в появившееся поле браузера. В разделе "Commit changes" указать **ФИО студента** и **название лабораторной работы**. В описании добавить дополнительную информацию при необходимости.
+<img width="1253" height="819" alt="4" src="https://github.com/user-attachments/assets/b6c21abd-cbb1-41a0-8338-dabdd98a61d7" />
 
 5. Чтобы отправить домашнее задание на проверку, необходимо нажать "Contribute" → "Open Pull Request". Иногда требуется синхронизировать форк перед созданием пул реквеста.
    <img width="1242" height="806" alt="5" src="https://github.com/user-attachments/assets/ac8871f5-af92-45f7-9afd-6ca3a1667a8f" />
 
-6. Подписываем пул реквест и нажимаем кнопку "Create pull request".
-    <img width="1242" height="806" alt="6" src="https://github.com/user-attachments/assets/53d09af6-9591-4824-ae89-49c4d8ca092a" />
+6. Подписываем пул реквест (по умолчанию будет текст идентичный последнему коммиту) и нажимаем кнопку "Create pull request".
+  <img width="1259" height="813" alt="7" src="https://github.com/user-attachments/assets/638e3ae6-6bef-471d-bbf1-55fcc014fd06" />
+
 
 7. Далее в специальном окне будет проходить процедура вашей защиты лабораторной работы преподавателем. В случае каких-либо недочётов, будет требоваться изменение загружаемых файлов.
    <img width="1195" height="757" alt="7" src="https://github.com/user-attachments/assets/e9aa04b3-76d6-45f0-8d09-380dfaa0fb91" />
