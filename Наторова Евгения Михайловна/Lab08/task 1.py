@@ -2,7 +2,7 @@ import re
 
 def phone_number():
     text = input("Введите строку для поиска номера телефона: ")
-    pattern = r'\+(\d)(\d{3})(\d{7})'
+    pattern = r'\+(\d)\((\d{3})\)((\d)-(\d{2}-\d{2}))'
     match = re.search(pattern, text)
 
     if match:
@@ -17,4 +17,7 @@ def phone_number():
         print("Номер не найден")
 
 
-phone_number()
+
+if __name__== "main__":
+    phone_number()
+    
