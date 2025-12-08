@@ -18,6 +18,7 @@ def phone_number():
 
 
 
-if __name__== "main__":
+if __name__== __"main__":
     phone_number()
     
+
