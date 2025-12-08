@@ -3,7 +3,8 @@ import re
 def splt_words():
     text = input("Введите строку для разбития на слова в формат: ")
     result = re.split(r'[.,!?-]', text)
-    print("Список слов без пустых элементов:")
-    print(result)
+    print("Список слов без пустых элементов:", result)
 
-splt_words()
+if __name__== "__main__":
+    splt_words()
+    
